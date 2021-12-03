@@ -1,0 +1,4 @@
+add the function modularity
+add the test set
+add the output for weights and biases
+start creating the graphs
